@@ -69,7 +69,6 @@ export default function Post({ post }: PostProps): JSX.Element {
     }
   );
 
-
   return (
     <>
       <Head>
